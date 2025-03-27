@@ -19,12 +19,8 @@ We propose `MARQA-Benchmark', the first benchmark for question-and-answer algori
 @article{Shin2025MARQA,
   title={MARQA: Bridging Human and Autonomous Ship Operations Through Large Language Model-Based Navigational Reasoning},
   author={Shin, Yeongha and Lee, Changyu and Kim, Jinwhan},
-  journal={Journal Name}, % Replace "Journal Name" with the actual journal name
+  journal={}, 
   year={2025},
-  note={
-    Yeongha Shin is with the Robotics Program, Korea Advanced Institute of Science and Technology, Daejeon 34141, South Korea.
-    {\tt\small yeongha.shin@kaist.ac.kr}
-  },
 }
 ```
 
