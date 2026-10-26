@@ -1,4 +1,4 @@
-# MARQA 🚢 : Bridging Human and Autonomous Ship Operations Through Large Language Model-Based Navigational Reasoning (T-ITS Review)
+# MARQA 🚢 : LLM-Based Question Answering for Negotiation-Capable Autonomous Ship Navigation in Mixed Maritime Traffic
 [![Custom badge](https://img.shields.io/badge/Project%20Page-white?logo=GitHub&color=yellow)](https://yeongha-shin.github.io/MARQA/)
 
 ## 🔍 Framework Overview
@@ -7,7 +7,7 @@
 **MARQA**: This study develops MARQA (Maritime Autonomous Reasoning for Question Answering), an algorithm utilizing large language models (LLMs) to enable navigational question-and-answer interactions between vessels.
 
 ## 🌟 Highlights
-- **`2025-03-31`** Our paper has been submitted to the T-ITS journal and is currently under review.
+- **`2026-10-03`** Our paper has been submitted to the Ocean Engineering Journal
   
 ## 📩 Getting Started
 
@@ -16,8 +16,8 @@ We propose `MARQA-Benchmark', the first benchmark for question-and-answer algori
 
 ## 📝 Citation
 ```
-@article{Shin2025MARQA,
-  title={MARQA: Bridging Human and Autonomous Ship Operations Through Large Language Model-Based Navigational Reasoning},
+@article{Shin2026MARQA,
+  title={MARQA: LLM-Based Question Answering for Negotiation-Capable Autonomous Ship Navigation in Mixed Maritime Traffic},
   author={Shin, Yeongha and Lee, Changyu and Kim, Jinwhan},
   journal={}, 
   year={2025},
